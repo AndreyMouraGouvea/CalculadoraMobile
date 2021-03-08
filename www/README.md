@@ -1,4 +1,5 @@
-# Welcome to Onsen UI 2!
+# Bem vindo a Aula 01!
 
-This template is using Onsen UI, a HTML5 framework that is focusing on the speed and ease of use.
-For details, please check out [Onsen UI Website](http://onsenui.io) and [the documents](http://onsenui.io/v2/).
+### Template da nossa primeira aula... Vamos ver como que vai ser!! 
+### Primeiro aplicativo utilizando cordova na IDE Monaca!
+### Calculadora com Operações de Soma, Subtração, Multiplicação, Divisão e Exponenciação. Com JavaScript e Jquery.
